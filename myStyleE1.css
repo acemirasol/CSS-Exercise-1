@@ -1,0 +1,21 @@
+body {
+    background-color: #5B7FBD;
+    width: 700;
+    height: auto;
+}
+#wrap{
+    padding: 10px 10px;
+    margin: 50px;
+    width: 780px;
+    height: 400px;
+}
+#wrap ul{
+    list-style-position: inside;
+}
+#wrap ul li{
+    text-align: center;
+}
+
+
+
+
